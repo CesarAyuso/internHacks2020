@@ -1,3 +1,19 @@
+# Creating User Flow
+In this project I worked alongside a Capitol One Senior Engineer and 3 other mentees. Over the course of 4 weeks we met up regularly and worked on a webcourse designed to build a fullstack project. 
+
+## What I learned
+* Using API calls to send, push request. 
+* The basics of Docker
+* Hosting the frontend on a static image site
+* Hosting the backend on Heroku
+* Troubleshooting a web application
+* Implementing Firebase as our database
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
